@@ -1,4 +1,4 @@
-<pre>
+<pre style="margin-bottom: 0;">
 ⠀⠀⠀⠸⠂⠀⠀⢀⡴⠀⠀⠀⢀⣄⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⡀⠊⢀⠃⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⡔⠀⠀⢸⡀⠀⠀⠀⠀⡀⢀⠠⠤⡀⠀⠀⠀⠀
@@ -12,11 +12,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
-<div style="height:20px;"></div>
-
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
 </div>
+
 <h1 align="center"></h1>
 
 <div align="center">
