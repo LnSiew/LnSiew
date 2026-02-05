@@ -1,16 +1,7 @@
 <div>
-  <img width="100%"
-    src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=120
-    &section=footer
-    &color=0:020024,100:090979,200:00d4ff
-    &desc=✦ ✧ ✦ ✨ ✦ ✧ ✦
-    &descAlign=50
-    &descAlignY=35
-    &descSize=22
-    &fontColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020024,100:090979,200:001f3f&desc=🌙%20✦%20✧%20✦%20✨%20✦%20✧%20✦&descAlign=50&descAlignY=35&descSize=24&fontColor=FFFFFF" />
 </div>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
